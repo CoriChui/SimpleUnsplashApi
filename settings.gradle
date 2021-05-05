@@ -1,0 +1,2 @@
+rootProject.name = "Image Search MVI Pagination"
+include ':app'

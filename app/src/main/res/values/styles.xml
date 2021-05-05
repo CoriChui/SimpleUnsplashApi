@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Widget.DefaultTheme.MaterialCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">?attr/colorSurface</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.DefaultTheme.MediumComponent</item>
+    </style>
+
+</resources>
