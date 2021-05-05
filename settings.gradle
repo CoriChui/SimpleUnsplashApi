@@ -1,0 +1,2 @@
+rootProject.name = "Image Search MVVM Pagination"
+include ':app'
